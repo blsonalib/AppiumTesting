@@ -19,7 +19,7 @@ public class CalculatorTests{
     public static void calculator() throws MalformedURLException {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("deviceName","Galaxy J6");
-        capabilities.setCapability("udid","5200bfe3475fc5b7");
+        capabilities.setCapability("udid","100.92.147.152:5555");
         capabilities.setCapability("platformName","Android");
         capabilities.setCapability("platformVersion","9");
         capabilities.setCapability("appPackage","com.sec.android.app.popupcalculator");

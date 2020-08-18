@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="694e1631-48c0-4739-b7ca-7125223d6b58" name="Default Changelist" comment="" />
+    <list default="true" id="694e1631-48c0-4739-b7ca-7125223d6b58" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/CalculatorAppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApkFile/Google Meet Secure Video Meetings_v44.5.324814572_apkpure.com.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ApkFile/Google Meet Secure Video Meetings_v44.5.324814572_apkpure.com.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApkFile/Indeed Job Search_v29.0_apkpure.com.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ApkFile/Indeed Job Search_v29.0_apkpure.com.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ApkFile/naukriApp.appModules.login_2020-08-10.apk" beforeDir="false" afterPath="$PROJECT_DIR$/ApkFile/naukriApp.appModules.login_2020-08-10.apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CalculatorTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CalculatorTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IndeedTestingUsingApkFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/IndeedTestingUsingApkFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NaukariAppiumTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/NaukariAppiumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/CalculatorTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/CalculatorTests.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +25,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f8KgLro6CaG72egZ4uf7c4FVCJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -23,26 +38,77 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ApkFile" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.CalculatorTests">
-    <configuration name="CalculatorTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CalculatorTests" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Documents\Appium\ApkFile" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.CalculatorAppTest">
+    <configuration name="IndeedTestingUsingApkFile.appiumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="IndeedTestingUsingApkFile" />
+      <option name="METHOD_NAME" value="appiumTest" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CallerPhoneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CallerPhoneTest" />
+    <configuration name="NaukariAppiumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NaukariAppiumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NaukariAppiumTest.naukariTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NaukariAppiumTest" />
+      <option name="METHOD_NAME" value="naukariTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorAppTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAppTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorAppTest.testCalculatora" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Appium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculatorAppTest" />
+      <option name="METHOD_NAME" value="testCalculatora" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculatorTests" />
-        <item itemvalue="Application.CallerPhoneTest" />
+        <item itemvalue="TestNG.CalculatorAppTest" />
+        <item itemvalue="TestNG.CalculatorAppTest.testCalculatora" />
+        <item itemvalue="JUnit.NaukariAppiumTest" />
+        <item itemvalue="JUnit.NaukariAppiumTest.naukariTest" />
+        <item itemvalue="JUnit.IndeedTestingUsingApkFile.appiumTest" />
       </list>
     </recent_temporary>
   </component>
@@ -60,26 +126,42 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="942" height="204" key="GridCell.Tab.0.bottom" timestamp="1597236988874">
+    <state x="361" y="72" key="#Project_Structure" timestamp="1597779033966">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="942" height="204" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597236988874" />
-    <state width="942" height="204" key="GridCell.Tab.0.center" timestamp="1597236988873">
+    <state x="361" y="72" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1597779033966" />
+    <state x="994" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1597659071443">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="942" height="204" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597236988873" />
-    <state width="942" height="204" key="GridCell.Tab.0.left" timestamp="1597236988873">
+    <state x="994" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1597659071443" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1597781763672">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="942" height="204" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597236988873" />
-    <state width="942" height="204" key="GridCell.Tab.0.right" timestamp="1597236988874">
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1597781763672" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1597781763671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="942" height="204" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597236988874" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1597251562813">
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1597781763671" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1597781763671">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597251562813" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1597781763671" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1597781763671">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1597781763671" />
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog" timestamp="1597779448257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="68" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1597779448257" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1597779403410">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1597779403410" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1597779239407">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1597779239407" />
     <state x="0" y="109" key="new project wizard" timestamp="1595942203656">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
