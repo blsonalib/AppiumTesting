@@ -37,7 +37,7 @@ public class CalculatorAppTest {
         MobileElement equal = driver.findElement(By.id("com.sec.android.app.popupcalculator:id/bt_equal"));
         equal.click();
         Thread.sleep(5000);
-        String result = driver.findElement(By.id("com.sec.android.app.popupcalculator:id/txtCalc")).getText();
+        String result = driver.findElement(By.id("com.sec.android.app.popupcalculator:id/txtCalc_RealTimeResult")).getText();
         if (result.equals(45)) {
             System.out.println("Test is passed");
         }
